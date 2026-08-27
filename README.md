@@ -2,6 +2,8 @@
 
 This maintained starter renders a 36-entity payment investigation. The graph data describes meaning; OGJS owns semantic presentation, layout, camera framing, interaction, resizing, and rendering lifecycle.
 
+Use Node.js 20.19 or newer.
+
 ```bash
 npm install
 npm run dev
